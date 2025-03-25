@@ -2,7 +2,6 @@
 
 The paper associated with this work has been accepted for publication in **IEEE Latin America Transactions** (Submission ID: 9488). This repository contains the code and models used for the experiments presented in the paper.
 
-## Base Case
 The base case from which the simulations of the experiments proposed in the article are generated is presented.
 
 ## Content
