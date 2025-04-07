@@ -12,7 +12,7 @@ The code is organized by process type:
 
 ## Dataset and Subsets
 
-The dataset files are located in the `Dataset - Matlab` folder:
+The dataset files are located in the `Dataset - Matlab` folder with URL: https://drive.google.com/file/d/1kaBLELn65wRI0OQgKffC9_0D6CHt-_wm/view?usp=sharing
 
 1. The dataset of the original current samples (i.e. Ia, Ib, Ic, I0) obtained through simulation in Simulink, for each network configuration in the subfolders "1 - DFIG test system original dataset" and "1 - PMSG test system original dataset", for each fault point, case and fault type. In each folder, the data is separated as "MF" main feeder and "B1", "B2", ..."B9" are the respective branches.
 2. The Epu and REEpu dataset for each fault case at each fault point, for each fault type and network configuration in the subfolders "2 - DFIG Epu REEpu dataset" and "2 - PMSG Epu REEpu dataset". Showing the Epu and REEpu for the 5 levels of wavelet decomposition. Read horizontally the Epu and REEpu for the 4 currents (i.e., Epu_Ia, Epu_Ib, Epu_Ic, Epu_I0), and vertically are the 5 levels of wavelet decomposition.
